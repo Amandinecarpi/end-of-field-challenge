@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2? family=Karla:wght@400;700&family=Rubik&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+ul {
+    list-style-type: none;
+}
+.liste1 {
+    display: flex;
+    justify-content: space-around;
+}
