@@ -280,5 +280,538 @@ header input {
     justify-content: space-around;
     align-items: center;
     align-content: center;
-  }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card2{
+    background: #FFFFFF;
+    margin-left: 25px;
+    margin-right: 40px;
+    border-radius: 6px;
+    font-family:"Karla", serif;
+    margin-top: 50px;
+    
+    
+}
+.pro{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    letter-spacing: 2px;
+    color:#666666;
+    font-size: 15px;
+    ;
+}
+.popular{
+    background-color: #4EAB08;
+    border: #4EAB08;
+    color: #FFFFFF;
+    margin-left: 340px;
+    border-radius: 13px;
+    font-size: 10px;
+    padding: 4px 4px 4px 4px;
+}
+.month29{
+    transform: rotate(7deg);
+    padding-top: 25px;
+    margin-left: 25px;
+}
+
+.card2 ul{
+    margin-left: 25px;
+    padding-top: 10px;
+    line-height: 40px;
+}
+.unlimited2{
+    margin-left: 5px;
+    font-size: 15px;
+}
+.cloud2{
+    margin-left: 5px;
+    color: black;
+    font-size: 15px;
+}
+.custom3{
+    margin-left: 5px;
+    color: black;
+
+}
+.mail3{
+    margin-left: 5px;
+    color: black;
+
+}
+.good2{
+    margin-left: 25px;
+    font-size: 12px;
+    width: 60%;
+    color:#666666;
+    ;
+}
+.freetrial2{
+    background: #FC593B;
+    border: #fc593b;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 10px 40px 10px 40px;
+    font-size: 12px;
+    letter-spacing: 0px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.nocard2{
+    color: #878B90;
+    margin-left: 25px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    font-size: 13px;
+}
+.nocard{
+    color: #878B90;
+    margin-left: 25px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    font-size: 13px;
+}
+.freetrial{
+    background: #258AFF;
+    border: #258AFF;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 10px 40px 10px 40px;
+    font-size: 12px;
+    letter-spacing: 0px;
+    margin-left: 25px;
+    margin-top: 25px;
+    
+
+}
+.custom2{
+    color: #878B90;
+    text-decoration: line-through;
+    
+}
+.mail2{
+    color: #878B90;
+    text-decoration: line-through;
+}
+.unlimited{
+    margin-left: 5px;
+    font-size: 15px;
+
+}
+.cloud{
+    margin-left: 5px;
+    color: #FFFFFF;
+    font-size: 15px;
+    
+}
+.custom{
+    margin-left: 5px;
+    color: #878B90;
+    text-decoration: line-through;
+}
+.mail{
+    margin-left: 5px;
+    color: #878B90;
+    text-decoration: line-through;
+    
+}
+.card1 ul{
+    margin-left: 25px;
+    padding-top: 10px;
+    line-height: 40px;
+}
+.good{
+    margin-left: 25px;
+    font-size: 12px;
+    width: 60%;
+    color:#E5E5E5;
+}
+.month19{
+    transform: rotate(7deg);
+    padding-top: 25px;
+    margin-left: 25px;
+}
+.basic{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    letter-spacing: 2px;
+
+}
+
+.card1{
+    background: #2B405A;
+    margin-left: 25px;
+    margin-right: 40px;
+    border-radius: 6px;
+    font-family:"Karla", serif;
+    color: #FFFFFF;
+    
+
+}
+
+.useservice{
+    color: #FFFFFF;
+    font-family:"Karla", serif;
+    margin-left: 25px;
+    font-size: 35px;
+    letter-spacing: -2px;
+    margin-bottom: 30px;
+    word-spacing: -1px;
+
+}
+.tasteit{
+    color: #FFFFFF;
+    font-family:"Karla", serif;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    letter-spacing: 5px;
+    font-size: 22px;
+    padding-top: 20px;
+}
+.cards{
+    background: #192F48;
+    padding-bottom: 50px;
+
+}
+
+.shades3{
+    margin-left: 40px;
+
+}
+
+.shades2 {
+    font-family:"Rubik", sans-serif;
+    font-size: 20px;
+    margin-left: -5px;
+    
+    
+
+}
+.shades {
+    color: #258AFF;
+}
+
+.lastpar{
+    margin-left: 20px;
+    font-family:"Karla", serif;
+    color: black;
+    opacity: 60%;
+    width: 88%;
+    display: flex;
+    justify-content: auto;
+    font-size: 20px;
+    padding: 20px 20px;
+    line-height: 35px; 
+}
+.logos{
+    display: flex;
+    justify-content: space-around;
+    width: 16%;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+.lastlist {
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+    letter-spacing: -0.4px;
+    
+}
+.lastlist li{
+    padding: 10px 0;
+    color:#1F1F1F;
+    font-weight: bold;
+
+}
+.lastlist h4{
+    padding: 10px 0;
+    margin-top: 20px;
+    color: black;
+    opacity: 60%;
+    font-family:"Karla", serif;
+    
 }
